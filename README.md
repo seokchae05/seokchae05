@@ -14,10 +14,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sclee98@inha.edu)](mailto:sclee98@inha.edu)
 </div>
 
-<div align=center>
+<div display=flex align=center>
 
 [![SeokChae's github stats](https://github-readme-stats.vercel.app/api?username=seokchae05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/SeokChae05)
-[![SeokChae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChae05&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SeokChae05)
+[![SeokChae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChae05&show_icons=true&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/SeokChae05)
 
   <div align=center>📚<h2>STACKS</h2></div>
 
