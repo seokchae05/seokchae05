@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ)]([https://www.youtube.com/c/kyleschool](https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ)) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ)]([https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ](https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ)) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007878783861)](https://www.facebook.com/profile.php?id=100007878783861) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lsc9805/)](https://www.instagram.com/lsc9805/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sclee98@inha.edu)](mailto:sclee98@inha.edu)
