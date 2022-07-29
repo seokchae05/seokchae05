@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=300&section=header&text=SeokChae&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my page!&descSize=30" />
+</p>
 <div align=center><h2>Today</h2></div>
 <div align=center>
 
