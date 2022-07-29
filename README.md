@@ -20,7 +20,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seokchae05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>📚 STACKS</div>
+  <div align=center>📚 <h2>STACKS</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
