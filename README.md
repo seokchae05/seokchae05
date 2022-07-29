@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ===========
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seokchae05)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seokchae05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hojune0303@gmail.com)](mailto:hojune0303@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCVuGDYnKqgvnae036deZRuw?view_as=subscriber)](https://www.youtube.com/channel/UCVuGDYnKqgvnae036deZRuw?view_as=subscriber)
