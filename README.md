@@ -11,7 +11,7 @@
 <div align=center><h2>SNS List</h2></div>
 
 <div align=center>
-<a href="https://blog.naver.com/sclee9805" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+[[![Blog Badge]]("https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"&link=https://blog.naver.com/sclee9805)](https://blog.naver.com/sclee9805)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ)](https://www.youtube.com/channel/UCaCLyExIXezaafw5Hu_EKpQ)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007878783861)](https://www.facebook.com/profile.php?id=100007878783861) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lsc9805/)](https://www.instagram.com/lsc9805/) 
