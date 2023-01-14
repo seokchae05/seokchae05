@@ -21,7 +21,7 @@
 
 <div display=flex align=center>
 
-[![SeokChae's github stats](https://github-readme-stats.vercel.app/api?username=seokchae05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/SeokChae05)
+[![SeokChae's github stats](https://github-readme-stats.vercel.app/api?username=seokchae05&count_private=true&theme=prussian&show_icons=true)](https://github.com/SeokChae05)
 
 </div>
   <div align=center>📚<h2>STACKS</h2></div>
